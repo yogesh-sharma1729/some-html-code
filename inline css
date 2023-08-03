@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+ <header> 
+    <h1 style="text-align: center;">about yourself</h1>
+</header>
+<main>
+
+    <span style="float:left;border:4px solid blue;width:35%;margin-right:260px;margin-left:30px;padding-left:8px;">
+        <h2>name</h2>
+        <h2>Email</h2>
+        <h2>mobile</h2>
+        <h2>course</h2>
+        <h2>section</h2>
+        <h2>roll no.</h2>
+        <h2>gender</h2>
+        <h2>educational skills</h2>
+        <h2>professional skills</h2>
+    </span> 
+    <span style="float:left;border:4px solid red;width:35%;padding-left:60px;">
+        <h2>abhay goyal</h2>
+        <h2>abhaygoyal40668@gmail.com</h2>
+        <h2>7599076353</h2>
+        <h2>Btech CS</h2>
+        <h2> I</h2>
+        <h2>01</h2>
+        <h2>male</h2>
+        <h2>acadenic achievements</h2>
+        <h2>teamwork</h2>
+    </span>
+    </main>
+    <footer></footer>
+   </body>
+   
+    
+    </html>
